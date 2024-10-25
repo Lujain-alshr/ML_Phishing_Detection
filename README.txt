@@ -5,3 +5,6 @@
 2- open developer mode in chrome extensions and load the files 
 
 3- run app.py and you can use the extension
+
+PS:
+in the file MODEL there should be 2 pkl files for the model and for the features name 
